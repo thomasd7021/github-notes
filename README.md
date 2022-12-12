@@ -8,6 +8,6 @@ Git is the version control software.
 Github is a place where you can use git on a server online.
 
 ### Repo
-A space where you keep all your files for a project.
+A space where you keep all your files for a project. Its a group of files that are all related to the samething.
 
 ### Commit
