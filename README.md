@@ -11,3 +11,4 @@ Github is a place where you can use git on a server online.
 A space where you keep all your files for a project. Its a group of files that are all related to the samething.
 
 ### Commit
+It is a save button. Your  are ready to change the file and commit to all the changes.
